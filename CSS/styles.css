@@ -1,0 +1,17 @@
+  body {
+    background-color: #98d6ea;
+  }
+  h1{
+    font-size: 50px;
+    font-style: oblique;
+    color: blue;
+  }
+  hr{
+    background-color: blue;
+    border-style:none;
+    border-top: dashed;
+    width: 100%;
+  }
+  p{
+  color:blue;
+  }
